@@ -2,6 +2,11 @@
 
 This repository contains amazon clone that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript.
 
+## Project Overview
+
+**Title:** Age calculator <br>
+**Author:** Khush
+
 # Snapshot : 
 
 ![Screenshot 2024-07-24 212503](https://github.com/user-attachments/assets/143f39b1-3129-4cf8-92d1-3cbea982033b)
